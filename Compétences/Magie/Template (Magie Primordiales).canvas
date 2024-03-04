@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"d25e963faaea9027","type":"text","text":"","x":-600,"y":150,"width":50,"height":50},
+		{"id":"e8e28450d8a72573","type":"text","text":"##### Manipulation d'apprenti #Passif - 3 [[XP]]\n---\nVous synchroniser votre [[Catalyseur]] avec cette magie. Vous permet de générer jusqu'à 25 cm³ de cette magie et de garder cette magie active pendant un maximum de 1 heure.\n","x":-454,"y":25,"width":506,"height":300,"color":"4"},
+		{"id":"41ec2014a46756b1","type":"text","text":"##### Apprentissage arcanique #Boost - 2 [[XP]]\n---\n+2 en [[Intelligence]].","x":400,"y":87,"width":506,"height":177,"color":"5"},
+		{"id":"571483e1dc1af4b8","type":"text","text":"##### Étendue martiale #Actif - 1 [[XP]]\n---\nVotre corps entre en résonance avec votre [[Catalyseur]]. Vous permet d'étendre le pouvoir de génération de cette magie à tout votre corps et par extension à 1 [[Objets]] que vous porter.\n\n- *[[Protection]]* - \n\n- *[[Arme]]* - \n","x":52,"y":532,"width":506,"height":440,"color":"1"},
+		{"id":"4bcbba7b10b5c136","type":"text","text":"##### Étendue artisanale #Actif - 1 [[XP]]\n---\nVos créations artisanales entre en résonance avec votre [[Catalyseur]]. Vous permet d'étendre le pouvoir de génération de cette magie à toutes vos créations artisanales.\n\n- *[[Équipements]]* - Votre création gagne les effets de Étendue martiale.\n\n- *[[Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de Étendue martiale.\n\n- *[[Art]]* - \n\n- *[[Automate]]* - Les attaques et projectiles de l'[[Automate]] deviennent faîtes de cette magie.","x":52,"y":-640,"width":506,"height":440,"color":"1"},
+		{"id":"8008632b69d9ce76","type":"text","text":"##### Focalisation arcanique #Passif - 2 [[XP]]\n---\nPermet de doubler la durée maximale de cette magie.","x":906,"y":-288,"width":506,"height":177,"color":"4"},
+		{"id":"d93827ffc90da8c4","type":"text","text":"##### Focalisation arcanique #Passif - 2 [[XP]]\n---\nPermet de doubler la durée maximale de cette magie.","x":906,"y":444,"width":506,"height":177,"color":"4"},
+		{"id":"82642df1e9b91987","type":"text","text":"##### Manipulation d'adepte #Passif - 3 [[XP]]\n---\nVous gérer de mieux en mieux les fluides présents dans votre [[Catalyseur]]. Vous permet de générer jusqu'à 500 cm³ de cette magie et de garder cette magie active pendant un maximum de 6 heures.","x":1020,"y":26,"width":506,"height":300,"color":"4"},
+		{"id":"926ba1258320d615","type":"text","text":"##### Manipulation étendue #Passif - 5 [[XP]]\n---\nVous arrivez à faire sortir les flux de votre [[Catalyseur]]. Vous permet de manipuler cette magie même lorsqu'elle vient de sources autres que vous. Les limites de quantités et de temps de la génération s'applique aussi sur cette effet. ","x":1640,"y":26,"width":506,"height":300,"color":"4"},
+		{"id":"48cc4ea882fa7dfb","type":"text","text":"##### Manipulation d'érudit #Passif - 5 [[XP]]\n---\nVous distinguer parfaitement les fluides de cette magie qui traverse votre [[Catalyseur]]. Vous permet de générer jusqu'à 5 m³ de cette magie et de garder cette magie active pendant un maximum de 24 heures.","x":2280,"y":26,"width":506,"height":300,"color":"4"},
+		{"id":"fe081198854e4bd0","type":"text","text":"##### Manipulation de maître-mage #Passif - 7 [[XP]]\n---\nVous avez transcendez les fluides magiques que cette magie transporte dans votre [[Catalyseur]]. Permet de générer jusqu'à 10 m³ de cette magie et de garder cette magie active de façon permanente. Vous gagner +2 en [[Intelligence]].","x":2940,"y":26,"width":506,"height":300,"color":"4"},
+		{"id":"f0e54d7ee24cd3d3","type":"text","text":"##### Manipulation d'archimage #Passif - 10 [[XP]]\n---\nVous arriver à faire parvenir les flux à travers vos propres organes. Cette magie ne nécessite plus de [[Catalyseur]]. Permet de générer jusqu'à 500 m³ de cette magie et de garder cette magie active de façon permanente.","x":3600,"y":26,"width":506,"height":300,"color":"4"}
+	],
+	"edges":[
+		{"id":"0bde71eaf35b4f4e","fromNode":"d25e963faaea9027","fromSide":"right","toNode":"e8e28450d8a72573","toSide":"left"},
+		{"id":"d2675ae6ad264d15","fromNode":"e8e28450d8a72573","fromSide":"bottom","toNode":"571483e1dc1af4b8","toSide":"left"},
+		{"id":"a7ab3dd917b6c014","fromNode":"e8e28450d8a72573","fromSide":"top","toNode":"4bcbba7b10b5c136","toSide":"left"},
+		{"id":"080dddea873b8499","fromNode":"41ec2014a46756b1","fromSide":"top","toNode":"8008632b69d9ce76","toSide":"left"},
+		{"id":"37e2d94f84e60d49","fromNode":"41ec2014a46756b1","fromSide":"bottom","toNode":"d93827ffc90da8c4","toSide":"left"},
+		{"id":"e61d88c0073d465f","fromNode":"e8e28450d8a72573","fromSide":"right","toNode":"41ec2014a46756b1","toSide":"left"},
+		{"id":"43f3ec820e4cb947","fromNode":"41ec2014a46756b1","fromSide":"right","toNode":"82642df1e9b91987","toSide":"left"},
+		{"id":"8da01f20fee7e1d6","fromNode":"82642df1e9b91987","fromSide":"right","toNode":"926ba1258320d615","toSide":"left"},
+		{"id":"1d15a949466e09d1","fromNode":"926ba1258320d615","fromSide":"right","toNode":"48cc4ea882fa7dfb","toSide":"left"},
+		{"id":"5cd7cb6d57957a9e","fromNode":"48cc4ea882fa7dfb","fromSide":"right","toNode":"fe081198854e4bd0","toSide":"left"},
+		{"id":"3128cbd2cb04433e","fromNode":"fe081198854e4bd0","fromSide":"right","toNode":"f0e54d7ee24cd3d3","toSide":"left"}
+	]
+}
