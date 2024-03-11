@@ -1,3 +1,4 @@
+![[Foudre - Magie.webp]]
 # ⭐ - 3 XP
 ## Manipulation d'apprenti #Passif
 ---

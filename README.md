@@ -1,3 +1,4 @@
-# Aubaine Vault
-An Obsidian Vault with the Aubaine game system and lore.
+![[Aubaine - Logo.webp]]
+# Aubaine Vault - FR
+Un Vault **Obsidian** avec l'ensemble des règles, références et histoire d'Aubaine.
  

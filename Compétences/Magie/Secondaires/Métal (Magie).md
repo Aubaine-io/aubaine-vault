@@ -1,3 +1,4 @@
+![[Métal - Magie.webp]]
 # Hérite de [[Terre (Magie)]]
 # ⭐ - 3 XP
 ## Manipulation d'apprenti #Passif

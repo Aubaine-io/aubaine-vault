@@ -1,3 +1,4 @@
+![[Terre - Magie.webp]]
 # ⭐ - 3 XP
 ## Manipulation d'apprenti #Passif
 ---
@@ -31,7 +32,7 @@ Vos créations artisanales entre en résonance avec votre [[Catalyseur]]. Vous p
 
 ## Renforcement arcanique #Boost
 ---
-+2 en [[Force]], +5 [[Points de vie]] et +2 [[Points d'Armure]].
++2 en [[Force]], +20 [[Points de vie]] et +5 [[Points d'Armure]].
 
 ## Focalisation arcanique #Passif
 ---
@@ -93,7 +94,7 @@ Vous avez transcendez les fluides magiques que cette magie transporte dans votre
 
 ## Rage du Calydor #Actif
 ---
-**1 fois par jour et sans [[Checks]]**, vous faîtes remonter touts les minéraux de votre corps vers vos poings ce qui les rends [[Contendante]] et [[Indestructible]]. Vous gagne +5 en [[Force]]. Après 3 [[Tours]], les effets s'estompent et vous tomber [[K.O]].
+**1 fois par jour et sans [[Checks]]**, vous faîtes remonter touts les minéraux de votre corps vers vos poings ce qui les rends [[Contendante]] et [[Indestructible]]. Vous gagnez +5 en [[Force]]. Après 3 [[Tours]], les effets s'estompent et vous tomber [[K.O]].
 
 # ⭐⭐⭐⭐⭐⭐⭐ - 10 XP
 ## Manipulation d'archimage #Passif

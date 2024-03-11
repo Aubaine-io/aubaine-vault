@@ -1,4 +1,4 @@
-# Hérite de 
+# Hérite de ...
 # ⭐ - 3 XP
 ## Manipulation d'apprenti #Passif
 ---

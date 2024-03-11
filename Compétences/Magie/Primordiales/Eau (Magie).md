@@ -1,3 +1,4 @@
+![[Eau - Magie.webp]]
 # ⭐ - 3 XP
 ## Manipulation d'apprenti #Passif
 ---
@@ -8,7 +9,7 @@ Vous synchroniser votre [[Catalyseur]] avec cette magie. Vous permet de génére
 ---
 Votre corps entre en résonance avec votre [[Catalyseur]]. Vous permet d'étendre le pouvoir de génération de cette magie à tout votre corps et par extension à 1 [[Objets]] que vous porter.
 
-- *[[Protection]]* - L'eau qui coule sur votre [[Protection]] vous permet d'amortir les chocs. Vous recevez 1 de [[Dégâts]] de moins lorsque vous encaisser sur cette [[Protection]].
+- *[[Protection]]* - L'eau qui coule sur votre [[Protection]] vous permet d'amortir les chocs. Vous recevez 3 de [[Dégâts]] de moins lorsque vous encaisser sur cette [[Protection]].
 
 - *[[Arme]]* - L'eau vivifie votre [[Arme]], l'as rendant [[Tranchante]].
 
@@ -48,23 +49,23 @@ Vous gérer de mieux en mieux les fluides présents dans votre [[Catalyseur]]. V
 
 ## Harmonie aquatique #Actif
 ---
-**1 fois par jour et sans [[Checks]]**, permet de se synchroniser avec l'eau de son propre corps et ainsi fluidifier tout vos [[Mouvements]] vous permettant donc de faire 2 [[Mouvements]] durant 1 [[Tours]].
+**1 fois par jour et sans [[Checks]]**, permet de se synchroniser avec l'eau de son propre corps et ainsi fluidifier tout vos [[Mouvements]] vous permettant donc de faire 2 [[Action]] durant 1 [[Tours]].
 
 ## Infusion #Actif 
 ---
-**2 fois par jour et sans [[Checks]]**, permet de générer dans 1 corps de l'eau avec une vertu choisi par 1x 🎲6:
+**2 fois par jour et sans [[Checks]]**, permet de générer dans 1 être vivant fait d'eau avec une vertu choisi par 1x 🎲6:
 
-- 1. *Mélange protéinés* - +3 en [[Force]], si vous faîtes une [[Réussite Critique]] vos veines explose et vous passez à l'état [[Agonie]].
+- 1. *Mélange protéinés* - +3 en [[Force]] mais si vous faîtes une [[Réussite Critique]] vos veines explose et vous passez à l'état [[Agonie]].
 
 - 2. *Hydromel du barde* - Donne un [[Avantage]] au [[Checks]] qui ont lieu dans un contexte social mais l'[[Intelligence]] passe à 0.
 
-- 3. *Thé nuageux* - L'effet de la gravité ne vous atteint plus mais vous vous déplacer 2 fois plus lentement.
+- 3. *Thé nuageux* - Vous contrôler la gravité qui vous affecte mais vous vous déplacer 2 fois plus lentement.
 
 - 4. *Eau de Mazmaz* - Augmente le seuil d'[[Échec Critique]] de 2 et baisse le seuil de [[Réussite Critique]] de 1.
 
 - 5. *Café crémeux* - Apaise le buveur, lui rendant 50% de ses [[Points de vie]] manquants mais le faisant devenir docile. Sa [[Force]] passe à 0.
 
-- 6. *Jus du son pacifique* - Relance les dés. Double les effets positifs de la nouvel vertu mais triple le temps de l'effet négatif. Si vous retombez sur le *jus* vous bénéficié de **TOUT LES EFFETS POSITIFS** des infusions, après 1 heure vous perdez les effets positifs, puis vous subissez **TOUT LES EFFETS NÉGATIFS** jusqu'à votre prochaine [[Réussite Critique]].
+- 6. *Jus du son pacifique* - Relance les dés. Double les effets positifs de la nouvel vertu mais triple le temps de l'effet négatif. Si vous retombez sur le *jus* vous bénéficié de **TOUT LES EFFETS POSITIFS** des infusions, après 2 heures vous perdez les effets positifs, puis vous subissez **TOUT LES EFFETS NÉGATIFS** jusqu'à votre prochaine [[Réussite Critique]].
 
 >L'effet des vertus dure 1 heure.
 
@@ -74,7 +75,7 @@ Vous gérer de mieux en mieux les fluides présents dans votre [[Catalyseur]]. V
 
 ## Marchand de terreur #Actif
 ---
-**3 fois par jour avec un [[Checks]] [[Intelligence]] de [[Difficultés]] Héroïque**, vous pouvez modifier la texture et la couleur de l'eau que vous générer afin de faire pâlir n'importe quel [[Humain]] qui l'a voie et gagner un [[Avantage]] au [[Checks]] social.
+**3 fois par jour avec un [[Checks]] [[Intelligence]] de [[Difficultés]] Héroïque**, vous pouvez modifier la texture et la couleur de l'eau que vous générer afin de faire pâlir n'importe quel [[Humain]] qui l'a voie et gagner un [[Avantage]] au prochain [[Checks]].
 
 # ⭐⭐⭐⭐⭐ - 5 XP
 ## Manipulation d'érudit #Passif 
@@ -107,7 +108,7 @@ Vous avez transcendez les fluides magiques que cette magie transporte dans votre
 
 ## Tous les mêmes #Actif 
 ---
-**1 fois par jour avec un [[Checks]] [[Intelligence]] ([[Difficultés]] selon la cible)**, votre maîtrise de l'eau vous permet de vous connecter avec les êtres dont l'eau compose le corps. Vous pouvez contrôler 1 de leur [[Mouvements]].
+**1 fois par jour avec un [[Checks]] [[Intelligence]] ([[Difficultés]] selon la cible)**, votre maîtrise de l'eau vous permet de vous connecter avec les êtres dont l'eau compose le corps. Vous pouvez contrôler 3 de leur [[Mouvements]].
 
 # ⭐⭐⭐⭐⭐⭐⭐ - 10 XP
 ## Manipulation d'archimage #Passif
