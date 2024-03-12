@@ -1,5 +1,8 @@
 ![[Alchimiste - Archétype.webp]]
 # ⭐ - 3 XP
+## Prison de pierre #Actif
+---
+Permet de créer une [[Pierre d'Alchimie#Niveau 1]] en emprisonnant 1 Magie choisie au préalable.
 
 # ⭐⭐ - 1 XP
 
