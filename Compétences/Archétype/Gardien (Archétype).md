@@ -1,4 +1,4 @@
-![[Moine - Archétype.webp]]
+![[Guardien - Archétype.webp]]
 # ⭐ - 3 XP
 
 # ⭐⭐ - 1 XP

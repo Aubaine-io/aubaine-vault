@@ -19,7 +19,7 @@ Vos créations artisanales entre en résonance avec votre [[Catalyseur]]. Vous p
 
 - *[[Équipements]]* - Votre création gagne les effets de [[#Étendue martiale Actif]].
 
-- *[[Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de [[#Étendue martiale Actif]].
+- *[[Pierre d'Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de [[#Étendue martiale Actif]].
 
 - *[[Art]]* - L'eau est l'élément qui lie toutes les formes d'[[Art]]. Votre création se voit achevé plus 2 fois plus rapidement grâce à votre magie.
 

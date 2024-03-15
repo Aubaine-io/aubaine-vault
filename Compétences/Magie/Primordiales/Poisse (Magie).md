@@ -8,7 +8,9 @@ Vous synchroniser votre [[Catalyseur]] avec cette magie. Vous permet de génére
 ---
 Votre corps entre en résonance avec votre [[Catalyseur]]. Vous permet d'étendre le pouvoir de génération de cette magie à tout votre corps et par extension à 1 [[Objets]] que vous porter.
 
-- *[[Protection]]* - Vous enduisez votre [[Protection]] de [[Poisse (État)#Instable]]. Vous pouvez la déclenchez lorsque vous encaissez. Faîtes alors un jet 1x 🎲12. Si le résultat est pair, vous infligez autant de [[Dégâts]] à l'ennemi mais vous subissez la moitié. Si le résultat est impair vous subissez autant de [[Dégâts]] et infliger la moitié à l'ennemi. Doit être réappliquer après chaque utilisation.
+- *[[Protection]]* - Vous enduisez votre [[Protection]] de [[Poisse (État)#Instable]]. Vous pouvez la déclenchez lorsque vous encaissez. Faîtes alors un jet 1x 🎲12. 
+	- Si le résultat est pair, vous infligez autant de [[Dégâts]] à l'ennemi mais vous subissez la moitié.
+	- Si le résultat est impair vous subissez autant de [[Dégâts]] et infliger la moitié à l'ennemi. Doit être réappliquer après chaque utilisation.
 
 - *[[Arme]]* - Vos [[Attaque]] avec cet [[Arme]] applique [[Poisse (État)]].
 
@@ -18,12 +20,12 @@ Vos créations artisanales entre en résonance avec votre [[Catalyseur]]. Vous p
 
 - *[[Équipements]]* - Votre création gagne les effets de [[#Étendue martiale Actif]].
 
-- *[[Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'un des état de [[Poisse (État)]] selon un 1x 🎲6:
+- *[[Pierre d'Alchimie]]* - Votre création se voit insufflé de cette magie mais n'inflige pas de [[Dégâts]] et gagne l'effet d'un des états de [[Poisse (État)]] selon un 1x 🎲6:
 	- 1 -> 2 : [[Poisse (État)#Acide]]
 	- 3 -> 4 : [[Poisse (État)#Plasma]]
 	- 5 -> 6 : [[Poisse (État)#Instable]]
 
-- *[[Art]]* - Votre création est insufflé de [[Poisse (Magie)]], itérant toutes seule sur les états de [[Poisse (État)]] ce qui ont fait une œuvre très volatile.
+- *[[Art]]* - Votre création est insufflé de [[Poisse (Magie)]], itérant toute seule sur 1x 🎲4 cycle des états de [[Poisse (État)]] ce qui ont fait une œuvre très volatile.
 
 - *[[Automate]]* - Les attaques et projectiles de l'[[Automate]] applique [[Poisse (État)]].
 
@@ -59,9 +61,9 @@ Rajoute votre [[Intelligence]] à vos [[Dégâts]] de [[Poisse (État)]]
 
 ## Attrape-mouches #Actif 
 ---
-**Sans checks**, permet de créer un lien de [[Poisse (Magie)]] entre l'utilisateur et une cible, cette [[Poisse (Magie)]] évolue comme habituellement en tant que [[Poisse (État)]] mais évolue toutes seules chaque en 1 [[Tours]]. Ce lien donne accès à 2 [[Action]].
+**Sans [[checks]]**, permet de créer un lien de [[Poisse (Magie)]] entre l'utilisateur et une cible, cette [[Poisse (Magie)]] évolue comme habituellement en tant que [[Poisse (État)]] mais évolue toutes seules chaque en 1 [[Tours]]. Ce lien donne accès à 2 [[Action]].
 - **[[Checks]] selon la cible**, rétracte la [[Poisse (Magie)]] et fait venir la cible vers l'utilisateur.
-- **Sans checks**, rétracte la [[Poisse (Magie)]] et fait venir l'utilisateur à la cible.
+- **Sans [[checks]]**, rétracte la [[Poisse (Magie)]] et fait venir l'utilisateur à la cible.
 
 ## Colle forte #Passif
 ---

@@ -1,5 +1,5 @@
 # Description
-L'[[Intelligence]] est un [[Attributs]] qui permet de gérer touts [[Checks]] qui sont lié de près ou de loin à la capacité de réflexion, la connaissance, la puissance magique et le mental.
+L'[[Intelligence]] est un [[Attributs]] qui permet de gérer touts [[Checks]] qui sont lié de près ou de loin à la capacité de réflexion, d'investigation, la connaissance, la puissance magique et le mental.
 # Exemples
 1. Le *Joueur* a besoin d'utiliser une machine compliqué que personne n'as jamais vu auparavant. Il essaie de faire une action sur cette machine, le *Maître du jeu* lui demande alors un [[Checks]] [[Intelligence]].
 

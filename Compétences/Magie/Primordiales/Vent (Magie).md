@@ -9,9 +9,9 @@ Vous synchroniser votre [[Catalyseur]] avec cette magie. Vous permet de génére
 ---
 Votre corps entre en résonance avec votre [[Catalyseur]]. Vous permet d'étendre le pouvoir de génération de cette magie à tout votre corps et par extension à 1 [[Objets]] que vous porter.
 
-- *[[Protection]]* - Si vous encaissez une attaque, permet de renvoyer 1x 🎲6 de Dégâts
+- *[[Protection]]* - Si vous encaissez une [[attaque]], permet de renvoyer 1x 🎲6 de [[Dégâts]]
 
-- *[[Arme]]* - Après avoir fait 6x [[Attaque]] réussi avec votre arme, vous lancez automatiquement une [[#Tempête Actif]] indépendamment des restrictions du sort. Déclenché automatiquement par chaque [[Réussite Critique]].
+- *[[Arme]]* - Après avoir fait 6x [[Attaque]] réussi avec votre [[arme]], vous lancez automatiquement une [[#Tempête Actif]] indépendamment des restrictions du sort. Déclenché automatiquement par chaque [[Réussite Critique]].
 
 ## Étendue artisanale #Actif
 ---
@@ -19,7 +19,7 @@ Vos créations artisanales entre en résonance avec votre [[Catalyseur]]. Vous p
 
 - *[[Équipements]]* - Votre création gagne les effets de [[#Étendue martiale Actif]].
 
-- *[[Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de [[#Étendue martiale Actif]].
+- *[[Pierre d'Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de [[#Étendue martiale Actif]].
 
 - *[[Art]]* - Votre création est insufflé de vent et réplique 1 [[Attaque]] ou [[Action]] par jour au choix.
 
@@ -40,7 +40,7 @@ Permet de doubler la quantité maximale de cette magie.
 
 ## Tempête #Actif 
 ---
-**Une fois par jour et sans checks**, balance une tempête vers un ennemi, la tempête le déséquilibre et le met [[Au sol]]. Inflige également 2x 🎲4 de [[Dégâts]].
+**Une fois par jour et sans [[checks]]**, balance une tempête vers un ennemi, la tempête le déséquilibre et le met [[Au sol]]. Inflige également 2x 🎲4 de [[Dégâts]].
 
 ## Rapidité arcanique #Boost 
 ---
@@ -60,11 +60,11 @@ Permets de contrôler votre voix afin de la rendre audible uniquement au entité
 
 ## Leviosa #Actif 
 ---
-**Checks dépendant de la situation**, vous faîtes lévitez votre corps grâce à votre magie. 
+**[[Checks]] dépendant de la situation**, vous faîtes lévitez votre corps grâce à votre magie. 
 
 ## Wingsuit #Actif 
 ---
-**Sans checks**, permet de générer une fine couche de [[Vent (Magie)]] de vos aisselles à votre talon vous permettant de planner sur une certaine distance.
+**Sans [[checks]]**, permet de générer une fine couche de [[Vent (Magie)]] de vos aisselles à votre talon vous permettant de planner sur une certaine distance.
 # ⭐⭐⭐⭐⭐ - 5 XP
 ## Manipulation d'érudit #Passif 
 ---
@@ -88,7 +88,7 @@ Vous avez transcendez les fluides magiques que cette magie transporte dans votre
 
 ## Ouragan #Actif 
 ---
-**Une fois par jour et sans checks**, après 1 [[Tours]] de [[Concentration]], vous focalisez toute votre énergie pour créer un ouragan devant vous. Pour chaque magie ou éléments conséquents emprisonnés dans votre ouragan vous gagner 1x 🎲12 de [[Dégâts]]. [[#Ouragan Actif]] blesse toutes les entités en son sein. Après l'ouragan vous tombez [[K.O]].
+**Une fois par jour et sans [[checks]]**, après 1 [[Tours]] de [[Concentration]], vous focalisez toute votre énergie pour créer un ouragan devant vous. Pour chaque magie ou éléments conséquents emprisonnés dans votre ouragan vous gagner 1x 🎲12 de [[Dégâts]]. [[#Ouragan Actif]] blesse toutes les entités en son sein. Après l'ouragan vous tombez [[K.O]].
 
 # ⭐⭐⭐⭐⭐⭐⭐ - 10 XP
 ## Manipulation d'archimage #Passif

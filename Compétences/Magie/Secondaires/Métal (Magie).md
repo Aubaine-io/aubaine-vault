@@ -20,11 +20,11 @@ Vos créations artisanales entre en résonance avec votre [[Catalyseur]]. Vous p
 
 - *[[Équipements]]* - Votre création gagne les effets de [[#Étendue martiale Actif]].
 
-- *[[Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de [[#Étendue martiale Actif]]. Si la rune explose elle inflige [[Saignement]] à toutes les entités présentes dans le champs de l'explosion.
+- *[[Pierre d'Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de [[#Étendue martiale Actif]]. Si la rune explose elle inflige [[Saignement]] à toutes les entités présentes dans le champs de l'explosion.
 
 - *[[Art]]* - Votre création est fait d'un métal impeccable. Elle brille de mille feu. Vous pouvez la revendre à minima 2x plus cher.
 
-- *[[Automate]]* - Les attaques et projectiles de l'[[Automate]] deviennent faîtes de cette magie et applique [[Saignement]].
+- *[[Automate]]* - Les attaques et projectiles de l'[[Automate]] deviennent faîtes de cette magie et deviennent [[Tranchante]].
 
 # ⭐⭐⭐ - 2 XP
 ## Apprentissage arcanique secondaire #Boost
@@ -38,6 +38,21 @@ Permet de doubler la durée maximale de cette magie.
 ## Volonté arcanique #Passif
 ---
 Permet de doubler la quantité maximale de cette magie. 
+
+## Renforcement métalique #Boost 
+---
++5 [[Points d'Armure]].
++5 [[Résistance élémentaire]].
++25 [[Points de vie]].
+
+## Sérurier #Actif 
+---
+**Sans [[Checks]]**, permet d'ouvrir les portes qui ont une serrure mécanique sans les crochetés en créant un réplica de leur clé avec votre [[Métal (Magie)]].
+
+## Métal-lo-logue #Actif 
+---
+**Sans [[Checks]]**, permet de déterminer si le métal visible est un métal pure (non-généré) ou un métal magique. 
+
 # ⭐⭐⭐⭐ - 3 XP
 ## Manipulation d'adepte #Passif
 ---

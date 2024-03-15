@@ -1,0 +1,26 @@
+![[Nnor Alpin - Monstre.webp]]
+# Statistiques
+---
+
+| [[Force]] | [[Intelligence]] | [[Dextérité]] |    [[Perception]]    | [[Endurance]] | [[Charisme]] | [[Initiative]] |
+| :-------: | :--------------: | :-----------: | :------------------: | :-----------: | :----------: | -------------- |
+|    16     |        10        |      20       | 6 (Jour) / 20 (Nuit) |      16       |      10      | 14             |
+
+| [[Points de vie]] | [[Points d'Armure]] | [[Feu (Magie)]] | [[Eau (Magie)]] | [[Terre (Magie)]] | [[Vent (Magie)]] | [[Foudre (Magie)]] |
+| :---------------: | :-----------------: | :-------------: | :-------------: | :---------------: | :--------------: | :----------------: |
+|        64         |         14          |       18        |       10        |        14         |        10        |         10         |
+# Compétences
+---
+## Acrobaties - 2x
+---
+Esquive une attaque.
+
+## Coup de sabot - 1x
+---
+Inflige 1x 🎲12 de [[Dégâts]] et inflige [[K.O]].
+
+# Description
+---
+Les [[Nnor Alpin]] sont des bipèdes agiles qui vivent dans les Collines Verdoyantes. Ils vivent en communauté de ~15 individus avec à leur têtes 1 [[Nnor Samhan]].
+
+Leur vu est adapté aux grottes, ils voient donc très mal le jour.

@@ -9,7 +9,7 @@ Vous synchroniser votre [[Catalyseur]] avec cette magie. Vous permet de génére
 ---
 Votre corps entre en résonance avec votre [[Catalyseur]]. Vous permet d'étendre le pouvoir de génération de cette magie à tout votre corps et par extension à 1 [[Objets]] que vous porter.
 
-- *[[Protection]]* - Votre magie n'as d'égale que vos muscles, vous gagnez +1 [[Intelligence]] tout les 3 points de [[Force]]. 
+- *[[Protection]]* - Votre magie n'as d'égale que vos muscles, vous gagnez +1 [[Intelligence]] tout les 3 points de [[Force]]. Ne compte pas dans la limite des [[Attributs]].
 
 - *[[Arme]]* - La terre renforce vos [[Arme]] la rendant [[Indestructible]].
 
@@ -19,7 +19,7 @@ Vos créations artisanales entre en résonance avec votre [[Catalyseur]]. Vous p
 
 - *[[Équipements]]* - Votre création gagne les effets de [[#Étendue martiale Actif]].
 
-- *[[Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de [[#Étendue martiale Actif]].
+- *[[Pierre d'Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de [[#Étendue martiale Actif]].
 
 - *[[Art]]* - Votre création devient solide et vous renforce lorsque vous vous trouvez près d'elle. +1 en [[Intelligence]] OU +1 en [[Force]]. La portée dépend de votre niveau de manipulation (1 bonus maximum par statistique).
 

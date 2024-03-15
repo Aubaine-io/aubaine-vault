@@ -19,7 +19,7 @@ Vos créations artisanales entre en résonance avec votre [[Catalyseur]]. Vous p
 
 - *[[Équipements]]* - Votre création gagne les effets de [[#Étendue martiale Actif]].
 
-- *[[Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de [[#Étendue martiale Actif]].
+- *[[Pierre d'Alchimie]]* - Votre création se voit insufflé de cette magie et gagne l'effet d'[[Arme]] de [[#Étendue martiale Actif]].
 
 - *[[Art]]* - Votre création se voit insufflé les flammes et flux de votre [[Catalyseur]] ce qui l'as rends instable. Vous pouvez décider de faire exploser votre création. Les [[Checks]] correspondent à un [[Checks]] classique pour une [[Attaque]]. La porté dépends de votre niveau de manipulation.
 
