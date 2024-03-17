@@ -66,6 +66,7 @@ Si vous dépasser votre [[Checks]] de +5, vous pouvez rejouer une 2éme [[Action
 ## Coup de foudre #Actif 
 ---
 **1 fois par jour et sans [[Checks]]**, vous générez un puissant courant électrique dans la paume de votre main. Il ne peut seulement être transmis par le toucher. Si vous toucher un être fait d'eau, lui applique l'état [[Étourdie]]. Si cette entité porte un [[Équipements]] en métal applique également l'état [[Embrasement]].
+
 # ⭐⭐⭐⭐⭐ - 5 XP
 ## Manipulation d'érudit #Passif 
 ---
