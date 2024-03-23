@@ -1,5 +1,5 @@
 # Description
-Durant [[Étourdie]] la cible est :
+Durant [[Mécaniques/États/États composés/Étourdie]] la cible est :
 - [[Immobile]]
 - [[Incapacité]]
 - [[Muet]]

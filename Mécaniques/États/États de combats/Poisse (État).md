@@ -1,20 +1,20 @@
 ![[Poisse - État.webp]]
 # Description
-La [[Poisse (Magie)]] n'est pas une magie comme les autres, elle ne peux pas infligé de [[Dégâts]] direct, à part indication contraire.
+La [[Compétences/Magie/Primordiales/Poisse (Magie)]] n'est pas une magie comme les autres, elle ne peux pas infligé de [[Dégâts]] direct, à part indication contraire.
 
-La première fois que vous attaquer avec de la [[Poisse (Magie)]] sur une cible elle se voit gagné l'état [[Poisse (État)#Acide]].
+La première fois que vous attaquer avec de la [[Compétences/Magie/Primordiales/Poisse (Magie)]] sur une cible elle se voit gagné l'état [[Poisse (État)#Acide]].
 
-Chaque fois que vous attaquez cette même cible avec de la [[Poisse (Magie)]] vous faîtes évoluer [[Poisse (État)]] à l'état suivant ([[#Plasma]] ou [[#Instable]]). La [[Poisse (État)]] évolue toutes seules tout les 2 [[Tours]].
+Chaque fois que vous attaquez cette même cible avec de la [[Compétences/Magie/Primordiales/Poisse (Magie)]] vous faîtes évoluer [[Poisse (État)]] à l'état suivant ([[#Plasma]] ou [[#Instable]]). La [[Poisse (État)]] évolue toutes seules tout les 2 [[Tours]].
 
-Si la [[Poisse (Magie)]] vient d'être posé ou vient d'évoluer et que vous réappliquer [[Poisse (Magie)]], alors votre ancienne [[Poisse (État)]] voit son effet activé et évolue au niveau supérieur (revient à l'état [[#Acide]] si l'état était [[#Instable]]).
+Si la [[Compétences/Magie/Primordiales/Poisse (Magie)]] vient d'être posé ou vient d'évoluer et que vous réappliquer [[Compétences/Magie/Primordiales/Poisse (Magie)]], alors votre ancienne [[Poisse (État)]] voit son effet activé et évolue au niveau supérieur (revient à l'état [[#Acide]] si l'état était [[#Instable]]).
 
-*Évolution de la [[Poisse (Magie)]]* :
-- 1ére forme : [[Poisse (Magie)]] dans son état [[#Acide]] 
-- 2éme forme : [[Poisse (Magie)]] dans son état [[#Plasma]].
-- 3éme forme : [[Poisse (Magie)]] dans son état [[#Instable]].
+*Évolution de la [[Compétences/Magie/Primordiales/Poisse (Magie)]]* :
+- 1ére forme : [[Compétences/Magie/Primordiales/Poisse (Magie)]] dans son état [[#Acide]] 
+- 2éme forme : [[Compétences/Magie/Primordiales/Poisse (Magie)]] dans son état [[#Plasma]].
+- 3éme forme : [[Compétences/Magie/Primordiales/Poisse (Magie)]] dans son état [[#Instable]].
 
 # Résolution
-Après avoir consumé sont état [[#Instable]] la [[Poisse (Magie)]] disparaît.
+Après avoir consumé sont état [[#Instable]] la [[Compétences/Magie/Primordiales/Poisse (Magie)]] disparaît.
 
 # Acide
 ## Aspect
@@ -40,7 +40,7 @@ Statuts:
 - 5 -> 7 : Rien
 - 8 : [[Saignement]]
 - 9 -> 11 : Rien
-- 12 : [[K.O]] et votre [[Poisse (Magie)]] applique directement les effets de son état [[#Instable]].
+- 12 : [[K.O]] et votre [[Compétences/Magie/Primordiales/Poisse (Magie)]] applique directement les effets de son état [[#Instable]].
 
 [[Dégâts]]:
 - *Apprenti* - 1x 🎲6 de [[Dégâts]].

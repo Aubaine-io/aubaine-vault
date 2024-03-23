@@ -6,7 +6,7 @@
 | :-------: | :--------------: | :-----------: | :------------: | :-----------: | :----------: | -------------- |
 |     8     |        6         |       4       |       8        |      10       |      4       | 24             |
 
-| [[Points de vie]] | [[Points d'Armure]] | [[Feu (Magie)]] | [[Eau (Magie)]] | [[Terre (Magie)]] | [[Vent (Magie)]] | [[Foudre (Magie)]] |
+| [[Points de vie]] | [[Points d'Armure]] | [[Compétences/Magie/Primordiales/Feu (Magie)]] | [[Compétences/Magie/Primordiales/Eau (Magie)]] | [[Compétences/Magie/Primordiales/Terre (Magie)]] | [[Compétences/Magie/Primordiales/Vent (Magie)]] | [[Compétences/Magie/Primordiales/Foudre (Magie)]] |
 | :---------------: | :-----------------: | :-------------: | :-------------: | :---------------: | :--------------: | :----------------: |
 |        146        |         20          |       20        |       20        |        20         |        20        |         20         |
 # Compétences
@@ -27,6 +27,6 @@ Appel 2 [[Nnor Alpin]] pour l'aider.
 ---
 Les [[Nnor]] sont de puissantes créatures.
 
-Les [[Nnor]] sont le fruit d'un [[Nnor Samhan]] qui as accompli le rituel de feu et qui as bravé le mont Edros pour recevoir la bénédiction de Charon, le dragon primordiale de [[Feu (Magie)]].
+Les [[Nnor]] sont le fruit d'un [[Nnor Samhan]] qui as accompli le rituel de feu et qui as bravé le mont Edros pour recevoir la bénédiction de Charon, le dragon primordiale de [[Compétences/Magie/Primordiales/Feu (Magie)]].
 
 Une fois le [[Nnor Samhan]] transformé en [[Nnor]] il peut soit revenir à son ancienne maison ou il devra vaincre le [[Nnor]] déjà présent pour prendre sa place, ou alors il peut s'installer autres part pour fonder sa propre tribu.

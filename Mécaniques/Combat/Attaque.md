@@ -1,6 +1,6 @@
 # Description
-En plein combat vous avez le choix soit de faire 1 [[Mouvements]] soit de faire 1 [[Attaque]].
-Selon le type de votre [[Attaque]] ([[#Physique]] / [[#Magique]]) les calculs des [[Dégâts]] et des [[Difficultés]] est différents.
+En plein combat vous avez le choix soit de faire 1 [[Mouvements]] soit de faire 1 [[Mécaniques/Combat/Attaque]].
+Selon le type de votre [[Mécaniques/Combat/Attaque]] ([[#Physique]] / [[#Magique]]) les calculs des [[Dégâts]] et des [[Difficultés]] est différents.
 ## [[Dégâts]]
 ---
 ### Explication
@@ -14,7 +14,7 @@ La différence se transforme en [[Dégâts]] en plus des [[Dégâts]] que peuven
 ## Physique
 ---
 ### Explication
-Le seuil de [[Difficultés]] lors d'une [[Attaque#Physique]] corresponds à la valeur de [[Points d'Armure]] de la cible.
+Le seuil de [[Difficultés]] lors d'une [[Mécaniques/Combat/Attaque#Physique]] corresponds à la valeur de [[Points d'Armure]] de la cible.
 ### Exemple
 1. Si ma cible à 10 [[Points d'Armure]] alors ma [[Difficultés]] sera de 10.
 ## Magique
@@ -22,6 +22,6 @@ Le seuil de [[Difficultés]] lors d'une [[Attaque#Physique]] corresponds à la v
 ### Explication
 Selon la magie que vous utilisé votre [[Difficultés]] va être différentes. Il faut se référer à la [[Résistance élémentaire]] de votre cible.
 
-Dans le cadre ou votre [[Attaque]] utilise une magie qui n'est pas primordiales, on se réfère aux magies dont elle hérite et on prends la plus efficace.
+Dans le cadre ou votre [[Mécaniques/Combat/Attaque]] utilise une magie qui n'est pas primordiales, on se réfère aux magies dont elle hérite et on prends la plus efficace.
 ### Exemple
-1. Ma cible à une [[Résistance élémentaire]] au [[Feu (Magie)]] de 10 et une [[Résistance élémentaire]] à l'[[Eau (Magie)]] de 5. Si je fait une [[Attaque]] de [[Feu (Magie)]], ma [[Difficultés]] sera de 10 alors que si je fait une [[Attaque]] d'[[Eau (Magie)]] ma [[Difficultés]] sera de 5.
+1. Ma cible à une [[Résistance élémentaire]] au [[Compétences/Magie/Primordiales/Feu (Magie)]] de 10 et une [[Résistance élémentaire]] à l'[[Compétences/Magie/Primordiales/Eau (Magie)]] de 5. Si je fait une [[Mécaniques/Combat/Attaque]] de [[Compétences/Magie/Primordiales/Feu (Magie)]], ma [[Difficultés]] sera de 10 alors que si je fait une [[Mécaniques/Combat/Attaque]] d'[[Compétences/Magie/Primordiales/Eau (Magie)]] ma [[Difficultés]] sera de 5.

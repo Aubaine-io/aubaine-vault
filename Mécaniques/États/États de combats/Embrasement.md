@@ -1,5 +1,5 @@
 # Description
-[[Embrasement]] dépend de la [[Résistance élémentaire]] de [[Feu (Magie)]] de la cible.
+[[Embrasement]] dépend de la [[Résistance élémentaire]] de [[Compétences/Magie/Primordiales/Feu (Magie)]] de la cible.
 
 | [[Résistance élémentaire]] | [[Dégâts]] minimum | [[Dégâts]] | [[Tours]] |
 | -------------------------- | ------------------ | ---------- | --------- |

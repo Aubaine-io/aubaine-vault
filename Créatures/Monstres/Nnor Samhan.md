@@ -6,7 +6,7 @@
 | :-------: | :--------------: | :-----------: | :-----------------: | :-----------: | :----------: | :------------: |
 |     5     |        8         |       4       | 2 (Jour) / 8 (Nuit) |       6       |      4       |       16       |
 
-| [[Points de vie]] | [[Points d'Armure]] | [[Feu (Magie)]] | [[Eau (Magie)]] | [[Terre (Magie)]] | [[Vent (Magie)]] | [[Foudre (Magie)]] |
+| [[Points de vie]] | [[Points d'Armure]] | [[Compétences/Magie/Primordiales/Feu (Magie)]] | [[Compétences/Magie/Primordiales/Eau (Magie)]] | [[Compétences/Magie/Primordiales/Terre (Magie)]] | [[Compétences/Magie/Primordiales/Vent (Magie)]] | [[Compétences/Magie/Primordiales/Foudre (Magie)]] |
 | :---------------: | :-----------------: | :-------------: | :-------------: | :---------------: | :--------------: | :----------------: |
 |        86         |         12          |       20        |       12        |        16         |        12        |         12         |
 # Compétences

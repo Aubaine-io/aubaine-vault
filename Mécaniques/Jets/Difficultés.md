@@ -1,5 +1,5 @@
 # Description
-Lors d'un [[Checks]], le Maître du jeu décide de la [[Difficultés]] d'une [[Action]]. Si l'[[Action]] est une [[Attaque]] alors la [[Difficultés]] dépends de la cible. Dans un autre cas le Maître du jeu juge de par lui même la [[Difficultés]].
+Lors d'un [[Checks]], le Maître du jeu décide de la [[Difficultés]] d'une [[Action]]. Si l'[[Action]] est une [[Mécaniques/Combat/Attaque]] alors la [[Difficultés]] dépends de la cible. Dans un autre cas le Maître du jeu juge de par lui même la [[Difficultés]].
 
 # Liste des [[Difficultés]]
 
