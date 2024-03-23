@@ -1,0 +1,129 @@
+{
+  "callouts": {
+    "custom": [
+      "active",
+      "boost",
+      "passive",
+      "passive-upgrade",
+      "active-upgrade",
+      "technology",
+      "key",
+      "automate",
+      "spellblade",
+      "alchemy",
+      "slime"
+    ],
+    "settings": {
+      "passive": [
+        {
+          "changes": {
+            "icon": "lucide-sparkle",
+            "color": "29, 209, 161"
+          }
+        }
+      ],
+      "passive-upgrade": [
+        {
+          "changes": {
+            "icon": "lucide-sparkles",
+            "color": "16, 172, 132"
+          }
+        }
+      ],
+      "active": [
+        {
+          "changes": {
+            "icon": "lucide-book-marked",
+            "color": "255, 121, 121"
+          }
+        }
+      ],
+      "active-upgrade": [
+        {
+          "changes": {
+            "icon": "lucide-book-up",
+            "color": "235, 77, 75"
+          }
+        }
+      ],
+      "boost": [
+        {
+          "changes": {
+            "icon": "lucide-chevrons-up",
+            "color": "92, 168, 255"
+          }
+        }
+      ],
+      "technology": [
+        {
+          "changes": {
+            "icon": "lucide-settings",
+            "color": "162, 155, 254"
+          }
+        }
+      ],
+      "informations": [
+        {
+          "changes": {
+            "icon": "lucide-bookmark",
+            "color": "255, 255, 255"
+          }
+        }
+      ],
+      "key": [
+        {
+          "changes": {
+            "icon": "lucide-book-key",
+            "color": "255, 228, 56"
+          }
+        }
+      ],
+      "automate": [
+        {
+          "changes": {
+            "icon": "lucide-bot",
+            "color": "140, 84, 187"
+          }
+        }
+      ],
+      "mageblade": [
+        {
+          "changes": {
+            "icon": "lucide-sword",
+            "color": "0, 214, 179"
+          }
+        }
+      ],
+      "spellblade": [
+        {
+          "changes": {
+            "icon": "lucide-sword",
+            "color": "154, 187, 254"
+          }
+        }
+      ],
+      "alchemy": [
+        {
+          "changes": {
+            "icon": "lucide-gem",
+            "color": "255, 182, 56"
+          }
+        }
+      ],
+      "slime": [
+        {
+          "changes": {
+            "icon": "lucide-droplets",
+            "color": "77, 160, 49"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

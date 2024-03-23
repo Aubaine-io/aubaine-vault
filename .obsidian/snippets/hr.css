@@ -1,0 +1,4 @@
+.markdown-preview-view hr {
+    margin-top: 5px; /* Decrease the top margin */
+    margin-bottom: 5px; /* Decrease the bottom margin */
+}

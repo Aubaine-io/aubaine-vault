@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "callout",
+    "pdf-page",
+    "hr",
+    "header",
+    "pdf-header",
+    "pdf-callout"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "0da59f1bd31c007f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9463ae6f555b3e17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be8981d8f8d441ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transition Vault/Compétences/Magie/Primordiale/Feu (Magie).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d5c37c35b8875fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a227ba7510f543e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63d02e1832576675",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "323e2bf6066bcc75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "objets",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4f2a1e02c10f11f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b460df0b29f9af0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ceb6e2d98e77c72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b1e981a9614b22c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Transition Vault/Compétences/Magie/Primordiale/Feu (Magie).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "855041e0b200da1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Transition Vault/Compétences/Magie/Primordiale/Feu (Magie).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "832037907f72f9ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6de964ac75834cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Transition Vault/Compétences/Magie/Primordiale/Feu (Magie).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "be8981d8f8d441ba",
+  "lastOpenFiles": [
+    "Transition Vault/Compétences/Magie/Primordiale/Eau (Magie).md",
+    "Transition Vault/Compétences/Archétype/Sorcelame (Archétype).md",
+    "Transition Vault/Compétences/Magie/Primordiale/Terre (Magie).md",
+    "Transition Vault/Compétences/Magie/Primordiale/Vent (Magie).md",
+    "Transition Vault/Compétences/Magie/Primordiale/Feu (Magie).md",
+    "Transition Vault/Compétences/Magie/Primordiale/Foudre (Magie).md",
+    "Transition Vault/Compétences/Magie/Primordiale/Poisse (Magie).md",
+    "Compétences/Magie/Primordiales/Feu (Magie).md",
+    "Transition Vault/Compétences/Archétype/Sorcier (Archétype).md",
+    "Transition Vault/Compétences/Archétype/Technomancien (Archétype).md",
+    "Transition Vault/Images/Compétences/Magie/Primordiale/Eau (Magie).webp",
+    "Transition Vault/Images/Créatures/Inoffensif/Tromsy (Inoffensif).webp",
+    "Transition Vault/Images/Créatures/Inoffensif",
+    "Transition Vault/Images/Créatures/Innoffensif/Tromsy (Inoffensif).webp",
+    "Transition Vault/Images/Créatures/Innoffensif",
+    "Transition Vault/Images/Créatures/Nouveau dossier",
+    "Transition Vault/Images/Créatures/Autochtone/Tromsy (Inoffensif).webp",
+    "Transition Vault/Images/Créatures/Autochtone/Timsy (sif).webp",
+    "Transition Vault/Images/Créatures/Autochtone/Fir bolg (Autochtone).webp",
+    "Transition Vault/Images/Créatures/Autochtone/Timsy (Inofensif).webp",
+    "Transition Vault/Créatures/Autochtone/Drock (Autochtone).md",
+    "Transition Vault/Images/Créatures/Autochtone/Drock (Autochtone).webp",
+    "Transition Vault/Images/Créatures/Autochtone/Drock (Créature).webp",
+    "Transition Vault/Images/Créatures/Autochtone",
+    "Transition Vault/Images/Créatures",
+    "Transition Vault/Images/Nouveau dossier",
+    "Transition Vault/Créatures/Intelligente/Drock (Créature).webp",
+    "Transition Vault/Créatures/Autochtone",
+    "Transition Vault/Créatures/Nouveau dossier",
+    "Transition Vault/Créatures",
+    "Transition Vault/Nouveau dossier",
+    "Transition Vault/Compétences/Magie/Template (Magie).md",
+    "Transition Vault/Untitled.md",
+    "Transition Vault/Compétences/Archétype/Héros (Archétype).md",
+    "Transition Vault/Compétences/Archétype/Gladiateur (Archétype).md",
+    "Compétences/Magie/Primordiales/Vent (Magie).md",
+    "Compétences/Magie/Primordiales/Terre (Magie).md",
+    "Compétences/Magie/Primordiales/Eau (Magie).md",
+    "().md",
+    "Transition Vault/Compétences/Archétype/Disciple (Archétype).md",
+    "Transition Vault/Compétences/Archétype/Berserker (Archétype).md",
+    "Transition Vault/Compétences/Archétype/Rôdeur (Archétype).md",
+    "Compétences/Magie/Primordiales/Foudre (Magie).md",
+    "Transition Vault/Affliction/Poisse.md",
+    "Mécaniques/États/États de combats/Poisse (État).md",
+    "Compétences/Magie/Template (Magie Primordiales).canvas",
+    "Untitled.canvas"
+  ]
+}
