@@ -1,12 +1,12 @@
 Bienvenue en **Eden**, un continent qui ne connaît les [Humains]() que depuis **86 ans**, soit depuis **La Grande Fuite**.
 
 # La Grande Fuite
-On ne sait pas grand chose de **La Grande Fuite**, seulement que les [Humains] ont fuis leur ancien continent, que l'on suppose avoir le nom de **Pandora**, par bateau.
+On ne sait pas grand chose de **La Grande Fuite**, seulement que les [Humains]() ont fuis leur ancien continent, que l'on suppose avoir le nom de **Pandora**, par bateau.
 
 Depuis ce sinistre épisode l'humanité toute entière connais un sombre maux qui semble être plus profond que la simple barrière psychologique : **La Thalassophobie**.
 
 # Le Sombre Maux
-A votre connaissance aucun être humain n'est capable de nager, ou tout simplement de s'approcher d'une étendu d'eau dont on ne vois pas le fond.
+A votre connaissance aucun être humain n'est capable de nager, ou tout simplement capable de s'approcher d'une étendu d'eau dont on ne vois pas le fond.
 
 Les rares pécheurs de ce monde utilise des techniques toujours plus extravagantes pour réussir à récupérer des poissons comme : 
 - Jeter des explosifs dans l'eau pour faire remontée les poissons à la surface

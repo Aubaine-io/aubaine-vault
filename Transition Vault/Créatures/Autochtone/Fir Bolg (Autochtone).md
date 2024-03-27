@@ -1,11 +1,11 @@
-![[Drock (Autochtone).webp]]
+![[Fir bolg (Autochtone).webp]]
 # Statistiques
 ---
 
 | [[Force]] | [[Intelligence]] | [[Dextérité]] | [[Perception]] | [[Endurance]] | [[Charisme]] | [[Initiative]] |
 | :-------: | :--------------: | :-----------: | :------------: | :-----------: | :----------: | :------------: |
-|     6     |        8         |       8       |       10       |       4       |      2       |       20       |
+|    10     |        5         |       6       |       4        |       8       |      2       |       24       |
 
 | [[Points de vie]] | Physique | Feu | Eau | Terre | Vent | Foudre |
 | :---------------: | :------: | :-: | :-: | :---: | :--: | :----: |
-|        76         |    14    | 16  | 16  |  16   |  16  |   16   |
+|        104        |    18    | 16  | 16  |  16   |  16  |   16   |

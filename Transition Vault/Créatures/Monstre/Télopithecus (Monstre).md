@@ -1,11 +1,11 @@
-![[Drock (Autochtone).webp]]
+![[Télopithecus (Monstre).webp]]
 # Statistiques
 ---
 
 | [[Force]] | [[Intelligence]] | [[Dextérité]] | [[Perception]] | [[Endurance]] | [[Charisme]] | [[Initiative]] |
 | :-------: | :--------------: | :-----------: | :------------: | :-----------: | :----------: | :------------: |
-|     6     |        8         |       8       |       10       |       4       |      2       |       20       |
+|    12     |        10        |      11       |       8        |       9       |      12      |     34, 21     |
 
 | [[Points de vie]] | Physique | Feu | Eau | Terre | Vent | Foudre |
 | :---------------: | :------: | :-: | :-: | :---: | :--: | :----: |
-|        76         |    14    | 16  | 16  |  16   |  16  |   16   |
+|        374        |    22    | 24  | 24  |  24   |  24  |   24   |

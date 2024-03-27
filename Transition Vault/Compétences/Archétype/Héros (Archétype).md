@@ -94,7 +94,7 @@
 # Icône - 4 XP
 ---
 >[!active-upgrade]- Kit de soins
->**Premier-soins** n'est plus restreint par jour.
+>Le nombre d'utilisation de **Premier-soins** est doublé.
 >
 >---
 >⊛ Premier-soins
