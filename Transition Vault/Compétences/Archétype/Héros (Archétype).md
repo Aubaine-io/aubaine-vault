@@ -40,8 +40,8 @@
 >Vous soignez une entité présente dans un rayon de 1 mètres à hauteur de **1x 🎲12** de [Points de vies]().
 >
 >---
->↻ Une fois par jour.  
->✓ Aucun.
+>↻ Aucune restrictions.  
+>✓ [Jet]() de [Charisme](), [Difficulté]() 20.
 
 >[!passive]- Beau parleur
 >Après avoir réussi un [Jet]() de [Charisme](), votre prochain [Jet]() gagne un bonus de **+1**.
@@ -71,7 +71,7 @@
 # Célébrité - 3 XP
 ---
 >[!active-upgrade]- Soins appliqués
->**Premier-soins** soigne à hauteur de **1x 🎲20**, au lieu de **1x 🎲12**.
+>**Premier-soins** soigne à hauteur de **2x 🎲8**, au lieu de **1x 🎲12**.
 >
 >---
 >⊛ Premier-soins
@@ -93,12 +93,6 @@
 
 # Icône - 4 XP
 ---
->[!active-upgrade]- Kit de soins
->**Premier-soins** n'est plus restreint par jour.
->
->---
->⊛ Premier-soins
-
 >[!active-upgrade]- Comme à Fort-Rage
 >La 2éme [Attaque]() de **Spécialité de la Nouvelle-Aubaine** fait maintenant 100% de ses [Dégâts]().
 >
@@ -141,6 +135,12 @@
 
 >[!passive]- Héros charismatique
 >Vous pouvez modifié les [Jets]() utilisés pour [Attaquer]() afin d'en faire des [Jets]() de [Charisme]().
+
+>[!active-upgrade]- Soins charismatique
+>Si lors du [Jet]() de soins de **Premier-soins** vous avez 1 Dé qui est à sa valeur maximale, vous pouvez le relancer.
+>
+>---
+>⊛ Premier-soins
 
 # Légende - 7 XP
 ---
