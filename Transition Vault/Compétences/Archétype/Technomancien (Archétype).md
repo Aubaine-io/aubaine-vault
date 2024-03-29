@@ -13,9 +13,9 @@
 > 
 > Vous créer un [Automate]() fait de magie.
 > 
-> Par défaut l'automate possède 3 points dans tout ses [Attributs]() et 3 autres points que le [Technomancien]() peut répartir dans les [Attributs]() de son [Automate](). L'[Automate] inflige +3 [Dégâts]().
+> Par défaut l'automate possède 3 points dans tout ses [Attributs]() et 3 autres points que le [Technomancien]() peut répartir dans les [Attributs]() de son [Automate](). L'[Automate]() inflige +3 [Dégâts]() et possède 12 de [Résistance physique]() et [Résistance élémentaire]().
 >  
-> Les [Jets]() d'[Attaque]() de l'[Automate]() sont orientés soit sur la [Force]() soit sur la [Dextérité]() en fonction de l'[Attribut] le plus élevé durant la création de l'[Automate].
+> Les [Jets]() d'[Attaque]() de l'[Automate]() sont orientés soit sur la [Force]() soit sur la [Dextérité]() en fonction de l'[Attribut]() le plus élevé durant la création de l'[Automate]().
 > 
 > *L'[Automate]() n'as pas de [Chance]()*.
 > *L'[Automate]() existe tant que vous restez [Concentré]()*.
@@ -33,9 +33,16 @@
 >[!automate]- Frappe mécanique
 >+1 [Dégât]().
 
->[!automate]- Pimp my bot
->+1 [Technologie]().
->
+>[!automate]- Résistance mécanique
+>+2 [Résistance physique]() et [Résistance élémentaire]().
+
+>[!automate]- Avancée technologique
+>+1 [Force]().
+>+1 [Intelligence]().
+>+1 [Dextérité]().
+>+1 [Perception]().
+>+1 [Endurance]().
+>+1 [Charisme]().
 
 >[!automate]- Avancée technologique
 >+1 [Force]().
@@ -100,6 +107,9 @@
 >↻ Une fois par combat.
 >✓ Aucun.
 >⊛ Automatisation
+
+>[!automate]- Résistance technologique
+>+2 [Résistance physique]() et [Résistance élémentaire]().
 
 # Ingénieur - 3 XP
 ---
@@ -218,6 +228,9 @@
 >+1 [Technologie]().
 >
 
+>[!automate]- Résistance experte
+>+4 [Résistance physique]() et [Résistance élémentaire]().
+
 # Technomage - 5 XP
 ---
 >[!active]- Armure technomagique
@@ -275,6 +288,9 @@
 >
 >---
 >⊛ Cybernétisme
+
+>[!automate]- Résistance mécanique
+>+5 [Résistance physique]() et [Résistance élémentaire]().
 
 # Cyborg - 7 XP
 ---
@@ -441,6 +457,9 @@
 
 >[!automate]- Pimp my Behemoth
 >+1 [Technologie]().
+
+>[!automate]- Résistance de behemoth
+>+10 [Résistance physique]() et [Résistance élémentaire]().
 
 >[!passive-upgrade]- Cybermage ultime 
 >Vous pouvez vous appliquer 1 [Technologie]() de plus.

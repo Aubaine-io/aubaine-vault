@@ -24,7 +24,7 @@
 >[!active]- Cri encourageant
 >Vous criez, toutes les entités [Alliés]() qui entendent votre cri se voit octroyé un bonus de **+1** dans leur [Attribut]() le plus élevé ([Chance]() exclue).
 >
->*Si l'[Attribut]() augmenté est l'[Endurance](), n'augmente pas les [Points de vies]*.
+>*Si l'[Attribut]() augmenté est l'[Endurance](), n'augmente pas les [Points de vies]()*.
 >
 >---
 >↻ Une fois par session.  

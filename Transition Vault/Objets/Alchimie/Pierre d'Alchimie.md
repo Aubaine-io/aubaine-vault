@@ -4,6 +4,7 @@
 Les [Pierres d'Alchimie]() sont utilisé par les [Alchimistes (Archétype)]() pour emprisonner des sorts et compétences diverses afin de les réutiliser plus tard.
 
 Faîtes à base de [Gemme chargée](), ces merveilles sont remplis de [Magie] instable qui ne demande qu'à exploser !
+
 # Création
 ---
 Pour créer une [Pierre d'Alchimie] il vous faut :
@@ -26,6 +27,7 @@ Une fois votre [Pierre d'Alchimie]() crée, il vous suffiras de l'activer par le
 Lors de l'explosion effectué votre [Jet]() de [Dégâts]() correspondant au type de [Pierre d'Alchimie]() fabriqué.
 
 Une fois le résultat des [Dégâts]() obtenu, le **Maître du Jeu** soustrait se résultat à la [Résistance élémentaire]() correspondante. Le résultat de cette soustraction corresponds aux Dégâts finaux.
+
 # Types
 ---
 >[!alchemy]- Niveau 1
