@@ -6,6 +6,7 @@
     "hr",
     "header",
     "pdf-header",
-    "pdf-callout"
+    "pdf-callout",
+    "tables"
   ]
 }

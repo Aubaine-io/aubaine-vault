@@ -11,7 +11,13 @@
       "automate",
       "spellblade",
       "alchemy",
-      "slime"
+      "slime",
+      "description",
+      "loot",
+      "stats",
+      "price",
+      "craft",
+      "damage"
     ],
     "settings": {
       "passive": [
@@ -115,6 +121,54 @@
           "changes": {
             "icon": "lucide-droplets",
             "color": "77, 160, 49"
+          }
+        }
+      ],
+      "description": [
+        {
+          "changes": {
+            "icon": "lucide-scroll-text",
+            "color": "170, 170, 170"
+          }
+        }
+      ],
+      "loot": [
+        {
+          "changes": {
+            "icon": "lucide-coins",
+            "color": "163, 126, 62"
+          }
+        }
+      ],
+      "stats": [
+        {
+          "changes": {
+            "icon": "lucide-activity",
+            "color": "162, 112, 255"
+          }
+        }
+      ],
+      "price": [
+        {
+          "changes": {
+            "icon": "lucide-coins",
+            "color": "255, 220, 92"
+          }
+        }
+      ],
+      "craft": [
+        {
+          "changes": {
+            "icon": "lucide-hammer",
+            "color": "145, 84, 43"
+          }
+        }
+      ],
+      "damage": [
+        {
+          "changes": {
+            "icon": "lucide-sword",
+            "color": "152, 35, 22"
           }
         }
       ]
