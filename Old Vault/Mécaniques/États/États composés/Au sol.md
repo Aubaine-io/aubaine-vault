@@ -1,0 +1,1 @@
+Moins 4 de [[Points d'Armure]] et [[Résistance élémentaire]].

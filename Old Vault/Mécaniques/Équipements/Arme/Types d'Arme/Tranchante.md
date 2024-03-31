@@ -1,0 +1,1 @@
+Les armes [[Tranchante]] peuvent appliquer [[Saignement]] en cas d'un [[Checks]] qui dépassent la [[Difficultés]] par +10 ou une [[Réussite Critique]].
