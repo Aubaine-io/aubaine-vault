@@ -1,5 +1,5 @@
 ![[Vent (Magie).webp]]
-# Apprenti - 3 XP
+# Apprenti Aeromancien - 3 XP
 ---
 >[!key]- Manipulation d'apprenti
 >Vous vous synchronisez avec cette magie ce qui vous permet de générer jusqu'à 1 m³ de cette magie.

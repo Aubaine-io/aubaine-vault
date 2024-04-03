@@ -1,5 +1,0 @@
-# Description
-
-# Résolution
-
-# Solution

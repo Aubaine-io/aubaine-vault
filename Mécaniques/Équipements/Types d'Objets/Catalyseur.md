@@ -1,1 +1,0 @@
-![[Catalyseur - Équipement.webp]]

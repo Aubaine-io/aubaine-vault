@@ -17,7 +17,8 @@
       "stats",
       "price",
       "craft",
-      "damage"
+      "damage",
+      "card"
     ],
     "settings": {
       "passive": [
@@ -169,6 +170,14 @@
           "changes": {
             "icon": "lucide-sword",
             "color": "152, 35, 22"
+          }
+        }
+      ],
+      "card": [
+        {
+          "changes": {
+            "icon": "lucide-sun-moon",
+            "color": "168, 82, 255"
           }
         }
       ]

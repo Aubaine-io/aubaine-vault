@@ -1,1 +1,0 @@
-![[L'Ordre des Oracles - Drapeau.webp]]

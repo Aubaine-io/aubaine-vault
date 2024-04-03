@@ -1,2 +1,0 @@
-![[Humain - Race.webp]]
-# Description
