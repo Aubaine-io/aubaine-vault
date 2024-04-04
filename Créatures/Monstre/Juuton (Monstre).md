@@ -52,9 +52,8 @@
 >[!description]
 >Un prédateur qui use de son camouflage et de son habitat pour capturer ses proies.
 >
->Le Juuton est une imposante créature de 2 mètres 5 de haut souvent de couleur Jaune, parfait pour se camoufler dans les parrages montagneux du mont Edros d'ou il esdt originaire.
+>Le Juuton est une imposante créature de 2 mètres 5 de haut souvent de couleur Jaune, parfait pour se camoufler dans les parrages montagneux du mont Edros d'ou il est originaire.
 >
 >Sa langue est couverte d'une substance visqueuse qu'il utilise pour attrapé et ramené des bêtes dans sa bouche afin de se nourrir.
 >
 >On dit que se défenses sont si puissantes quelles peuvent cassé n'importe quel roche.
-

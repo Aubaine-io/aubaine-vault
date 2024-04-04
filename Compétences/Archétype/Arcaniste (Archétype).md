@@ -34,6 +34,9 @@
 
 # Cartiste - 1 XP
 ---
+>[!passive]- Chance du débutant
+>Une fois par session vous pouvez remplacer un [[Jet]] d'un [[Attribut]] quelconque par un [[Jet]] de [[Chance]].
+
 >[!boost]- Talent divinatoire
 >+1 [[Chance]].
 

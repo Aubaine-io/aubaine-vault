@@ -1,4 +1,3 @@
-# La folie du Nnor d'Olron
 Après avoir fini leur cursus à [[Fort-rage]], le groupe est dans l'attente de la mission d'initiation, leur première mission en temps que Parangon qui est censé les formé et dont ils sont censé rendre à [[Fort-rage]] avant de partir à l'aventure.
 
 Malheureusement le groupe précédent n'est pas revenu depuis 1 semaine et [[Fort-rage]] ne souhaite pas envoyé un autre groupe sans avoir des nouvelles des autres.
@@ -13,3 +12,5 @@ Enemis :
 - [[Old Vault/Créatures/Monstres/Nnor Alpin]]
 - [[Old Vault/Créatures/Monstres/Nnor Samhan]]
 - [[Old Vault/Créatures/Monstres/Nnor]]
+
+Le Sahman Loorn cherche à devenir un dragon avec l'aide des aventuriers

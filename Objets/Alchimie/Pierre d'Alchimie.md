@@ -7,7 +7,7 @@ Faîtes à base de [Gemme chargée](), ces merveilles sont remplis de [Magie] in
 
 # Création
 ---
-Pour créer une [Pierre d'Alchimie] il vous faut :
+Pour créer une [Pierre d'Alchimie]() il vous faut :
 - Une [Gemme chargée]().
 - Une [Magie]().
 - De la chance.
