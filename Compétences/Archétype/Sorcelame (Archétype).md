@@ -6,7 +6,7 @@
 >
 >Vous invoquez une [Arme]() faîtes de [Magie]() pure. Cette [Arme]() gagne l'effet d'[Étendue martiale]() de la [Magie] choisie.
 >
->Les [Attaques]() basiques de votre [Lame-sort]() peuvent correspondre soit à un [Jet]() [Force](), soit un [Jet]() [Dextérité](), soit un [Jet]() [Intelligence]().
+>Les [Attaques]() basiques de votre [Lame-sort]() peuvent correspondre soit à un [Jet]() [Force](), soit un [Jet]() [Dextérité](), soit un [Jet]() [Intelligence]() confrontant soit la résistance physique de la cible pour les [[Jets]] de [[Force]] et [[Dextérité]], soit une résistance élémentaire pour les [[Jets]] d'[[Intelligence]].
 >
 >La [Lame-sort]() inflige **+5** [Dégâts]() , possède 10 d'[Encaissement]() et une allonge de 1 mètre.
 >

@@ -1,7 +1,7 @@
 ![[Fir bolg (Autochtone).webp]]
 # Statistiques
 ---
->[!stats] Attributs
+>[!stats]- Attributs
 >
 >###### Principaux
 >
@@ -17,13 +17,13 @@
 
 # Compétences
 ---
->[!active] Tourbillon
+>[!active]- Tourbillon
 >Tourne autour de lui même infligeant **2x 🎲20** de [Dégâts]() au entités dans un rayon de 2 mètres.
 >
 >---
 >↻ 2 fois.
 
->[!active] Homerun
+>[!active]- Homerun
 >Prends une pierre qui traîne à côté de lui et la jette à l'aide de sa massue à l'entité la plus éloigné de lui, lui infligeant**2x 🎲20** de [Dégâts]().
 >
 >---
@@ -31,7 +31,7 @@
 
 # Loot
 ---
->[!loot]
+>[!loot]-
 >- 1 : Rien
 >- 2 : **1x** [Sang inférieur]()
 >- 3 : Rien
@@ -41,7 +41,7 @@
 
 # Description
 ---
->[!description]
+>[!description]-
 >Une espèce native d'Eden et habitant de la Schwarzwald.
 >
 >Ces créatures sont assez imposantes avec une taille moyenne de 1 mètre 80 et une carrure assez imposante aussi. Il se regroupe en petit village dispersé dans toute la Schwarzwald.

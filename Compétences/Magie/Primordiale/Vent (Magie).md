@@ -198,7 +198,7 @@
 >Vous ne pouvez plus être atteint de [Au sol]().
 
 >[!active-upgrade]- Lame de vent profonde
->**Lame de vent** inflige maintenant **1x 20** de [Dégâts]() au lieu de **1x 🎲12**.
+>**Lame de vent** inflige maintenant **1x 🎲20** de [Dégâts]() au lieu de **1x 🎲12**.
 >
 >---
 >⊛ Lame de vent
@@ -208,4 +208,3 @@
 
 >[!passive]- Accumulation venteuse
 >A chaque fois que vous consommé 1 [Mouvement]() vous gagner un bonus de **+4** de [Dégâts]() à votre prochaine [Attaque]() de [Vent]().
-

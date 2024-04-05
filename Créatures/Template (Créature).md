@@ -1,6 +1,6 @@
 # Statistiques
 ---
->[!stats] Attributs
+>[!stats]- Attributs
 >
 >###### Principaux
 >
@@ -19,7 +19,7 @@
 
 # Loot
 ---
->[!loot]
+>[!loot]-
 >- 1 : 
 >- 2 : 
 >- 3 :  
@@ -29,5 +29,5 @@
 
 # Description
 ---
->[!description]
+>[!description]-
 

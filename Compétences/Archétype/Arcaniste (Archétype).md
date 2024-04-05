@@ -13,13 +13,13 @@
 # Deck de base - Spécial
 ---
 >[!card]- I. Le Magicien
->Durant ce [[Tour]], vous gagnez +2 sur vos [[Jets]] d'[[Attaques magiques]].
+>Durant ce [[Tour]], vous gagnez un bonus de +2 sur vos [[Jets]] d'[[Attaques magiques]] et **1x 🎲12** de [[Dégâts]] sur vos [[Attaques magiques]]..
 
 >[!card]- XI. La Force
->Durant ce [[Tour]], vous gagnez +2 sur vos [[Jets]] d'[[Attaques physiques]].
+>Durant ce [[Tour]], vous gagnez +2 sur vos [[Jets]] d'[[Attaques physiques]] et **1x 🎲12** de [[Dégâts]] sur vos [[Attaques physiques]].
 
 >[!card]- VII. Le Chariot
->Durant ce [[Tour]], vous gagnez un [[Mouvement]] et vous pouvez également consommé 2 [[Mouvements]] pour faire bouger un ennemi.
+>Durant ce [[Tour]], vous gagnez un [[Mouvement]] et vous pouvez également consommé 2 [[Mouvements]] pour faire bouger un ennemi ou le mettre au sol.
 
 >[!card]- XXII. Le Fou
 >Durant ce [[Tour]], vous pouvez faire autant d'[[Actions]] que vous voulez mais tout les [[Dégâts]] infligé à une cible vous sont également infligé.

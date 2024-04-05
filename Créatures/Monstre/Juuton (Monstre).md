@@ -1,7 +1,7 @@
 ![[Juuton (Monstre).webp]]
 # Statistiques
 ---
->[!stats] Attributs
+>[!stats]- Attributs
 >
 >###### Principaux
 >
@@ -17,13 +17,13 @@
 
 # Compétences
 ---
->[!active] Saut amphibien
+>[!active]- Saut amphibien
 >Vous vous envolez dans les airs, au moment de la descente vous infligez **1x 🎲20** à toutes les entités dans un rayon de 3 mètres.
 >
 >---
 >↻ 1 fois.
 
->[!active] Gobage
+>[!active]- Gobage
 >Vous gobez une cible au corps à corps et la laissez suffoqué dans votre bouche. Pour chaque [Tour]() passé dans votre bouche la cible subit **1x 🎲12** de [Dégâts]().
 >
 >La cible est libéré si une entité alliée vient l'aider ou si vous subissez 3 [Attaques]().
@@ -31,7 +31,7 @@
 >---
 >↻ 2 fois.
 
->[!active] Coup de langue
+>[!active]- Coup de langue
 >Vous visez une cible avec votre langue et lui infligé **1x 🎲20** de [Dégâts](). Faîtes un [Jet]() **1x 🎲20** en cas de résultat supérieur à 13 la cible et attrapé et ramenez dans votre bouche subissant les effets de Gobage
 >
 >---
@@ -39,7 +39,7 @@
 
 # Loot
 ---
->[!loot]
+>[!loot]-
 >- 1 : **1x** [Griffe de Juuton]()
 >- 2 : **1x** [Sang de bonne qualité]()
 >- 3 : **1x** [Substance visqueuse]()
@@ -49,7 +49,7 @@
 
 # Description
 ---
->[!description]
+>[!description]-
 >Un prédateur qui use de son camouflage et de son habitat pour capturer ses proies.
 >
 >Le Juuton est une imposante créature de 2 mètres 5 de haut souvent de couleur Jaune, parfait pour se camoufler dans les parrages montagneux du mont Edros d'ou il est originaire.

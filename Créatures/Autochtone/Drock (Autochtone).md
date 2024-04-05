@@ -1,7 +1,7 @@
 ![[Drock (Autochtone).webp]]
 # Statistiques
 ---
->[!stats] Attributs
+>[!stats]- Attributs
 >
 >###### Principaux
 >
@@ -17,16 +17,16 @@
 
 # Compétences
 ---
->[!active] Absorption élémentaire
+>[!active]- Absorption élémentaire
 >Absorbe les [Dégâts]() magique fait et se soigne d'un montant équivalent au [Dégâts]().
 >
 >---
 >↻ 2 fois.
 
->[!passive] Peau volatile
+>[!passive]- Peau volatile
 >Si il subis un coup fatal, le Drock peut mué et laissé sa peau derrière lui faisant évitez ce coup.
 
->[!active] Coup de queue
+>[!active]- Coup de queue
 >Le Drock met un coup de queue, renversant la cible et la mettant à terre.
 >
 >---
@@ -34,7 +34,7 @@
 
 # Loot
 ---
->[!loot]
+>[!loot]-
 >- 1 : Rien
 >- 2 : Rien
 >- 3 : **1x** [Sang inférieur]()
@@ -44,7 +44,7 @@
 
 # Description
 ---
->[!description]
+>[!description]-
 >Une espèce native d'Eden, elle vit principalement au mont Edros au service des différents Dragons primordiaux.
 >
 >Les Drocks sont semblable à des Lézards. Ils sont assez fétiche et se tiennent debout sur leur 2 pattes arrières. Ils font en moyenne 1 mètre 50.
