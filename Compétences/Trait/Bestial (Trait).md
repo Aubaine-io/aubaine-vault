@@ -6,9 +6,7 @@
 >
 >Suite à un coup d'état orchestré par une légende, une partie des Transcendés se sont rebellé afin de faire créer une noble division au sein même de la Weitzguard : **L'Ordre Bestiale**.
 >
->***Votre maîtrise de la magie bestiale dépend de votre rang*** :
->
->**Bestial** ~ Les transformations sont partiels, 1 membre du corps à la fois.
+>Pour
 >
 >*Le **Maître du Jeu** peut décider de vous faire transformez aléatoirement durant un session.*
 >

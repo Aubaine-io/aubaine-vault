@@ -155,7 +155,7 @@
 >**Avalanche de coups** inflige maintenant l'équivalent de **1x 🎲6** de vos **Coups de poings** au lieu de **1x 🎲4**.
 >
 >---
->⊛ Manifestation guerrière
+>⊛ Avalanche de coups
 
 >[!active]- Manifestation guerrière
 >Vous entrez en [Concentration](), ce qui vous permet de manifestez le guerrier en vous.
