@@ -52,7 +52,7 @@
 >---
 >↻ Une fois par combat.  
 >✓ Aucun.
-
+	
 >[!active]- Cohésion sismique
 >Vous faîtes tremblez la [Terre]() qui vous entoure, mettant [Au sol]() tout les ennemis dans un rayon de 3 mètres.
 >
@@ -121,6 +121,10 @@
 
 >[!active]- Lance-pierre
 >Vous lancez **1x 🎲12** petits rocher sur une cible chacun infligeant **1x 🎲8** de [Dégâts]().
+>
+>---
+>↻ Une fois par combat.  
+>✓ Aucun.
 
 >[!passive]- Chez soi
 >Vous obtenez un bonus de **+2** dans votre [Attribut]() le plus fort lorsque vous vous trouvez dans un milieux rocheux.

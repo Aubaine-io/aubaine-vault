@@ -99,12 +99,6 @@
 >[!passive]- Pancretan
 >Vos **Coups de poings** infligent **+4** [Dégâts]() supplémentaires.
 
->[!passive-upgrade]- Double peine
->**Double poings** inflige **100%** de [Dégâts]() au lieu de **50%**.
->
->---
->⊛ Double poings
-
 >[!active-upgrade]- Esprit tranquille
 >**Méditation** soigne maintenant de **20%** de [Points de vies]() par [Tour]() au lieu de **10%**. La [Difficulté]() du [Jet]() devient **26**.
 >
