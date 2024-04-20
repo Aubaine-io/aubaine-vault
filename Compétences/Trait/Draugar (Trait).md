@@ -4,17 +4,31 @@
 >[!passive]- Contaminé
 >Du sang maudit coule dans vos veines et se multiplie à une vitesse affolante.
 >
-> Vous êtes un **Draugar**.
+>Vous êtes un **Draugar**.
 >
 >**Votre teint est blanc** ET **vous êtes assoiffé de sang et de chaire humaine**, à un tel point que si vous ne consommez rien d'humain durant une journée tout entière vous obtenez un [Point de Folie]().
 >
 >Pour chaque [Point de Folie]() vous obtenez un malus différent :
 >
 >- 1 [Point de Folie]() : -1 dans touts vos [Attributs]().
->- 2 [Points de Folie]() : Vous devenez fou, le **Maître du jeu** peut décider de faire des actions à votre place.
->- 3 [Points de Folie]() : -1 [Action]() par [Tour]().
->- 4 [Points de Folie]() : -4 dans touts vos [Attributs]().
->- 5 [Points de Folie]() : Vous mourrez.
+>>
+>- 2 [Points de Folie]() : Votre folie ne vous fais plus accepter l'échec, une fois par session vous pouvez ignorer un [[Échec Critique]] et relancer vos [[Jets]].
+>>
+>- 3 [Points de Folie]() : -1 [Mouvement]() ou [Attaque]() par [Tour]().
+>>
+>- 4 [Points de Folie]() : Votre peau se fragilise, tout les [[Dégâts]] que vous subissez sont doublés.
+>>
+>- 5 [Points de Folie]() : Toutes vos [[Attaques]] possèdent maintenant l'effet de [[Ponction]] à 100%.
+>>
+>- 6 [Points de Folie]() : -5 dans touts vos [Attributs]().
+>>
+>- 7 [Points de Folie]() : Votre folie bousille votre mémoire, vous permettant d'utiliser vos compétences restreintes une fois de plus autant bien les compétences restreinte par combat que par session.
+>>
+>- 8 [Points de Folie]() : - 10 dans touts vos [[Attributs]].
+>>
+>- 9 [Points de Folie]() : Touts vos [[Jets]] deviennent [[Critique]].
+>>
+>- 10 [[Points de Folie]] : Vous mourrez.
 >
 >*Consommez de la viande humaine ou du sang humain vous enlève un [Point de folie]().*
 >
@@ -100,7 +114,7 @@
 # Varcolac - 10 XP
 ---
 >[!passive-upgrade]- Greffe terrible
->**Greffe abominable** vous permet de greffer 1 partie supplémentaire d'un monstre.
+>**Greffe abominable** vous permet de greffer un nombre illimité de partie d'un monstre. contre 2 [[Points d'Attributs]] (déductible de vos [[Attributs]] actuelles). 
 >
 >---
 >⊛ Greffe abominable

@@ -22,7 +22,7 @@
 >+5 [Résistance élémentaire]().
 
 >[!active]- Cri encourageant
->Vous criez, toutes les entités [Alliés]() qui entendent votre cri se voit octroyé un bonus de **+1** dans leur [Attribut]() le plus élevé ([Chance]() exclue) durant le reste du combat.
+>Vous criez, toutes les entités [Alliés]() qui entendent votre cri se voit octroyé un bonus de **+1** dans leur [Attribut]() le plus élevé ([Chance]() exclue) pour le reste du combat.
 >
 >*Si l'[Attribut]() augmenté est l'[Endurance](), n'augmente pas les [Points de vies]()*.
 >
@@ -61,7 +61,7 @@
 >✓ Aucun.
 
 >[!active]- Cri du ralliement
->Vous criez, toutes les entités [Alliés](app://obsidian.md/index.html) qui entendent votre cri se voit octroyé un [[Bouclier]] à hauteur de **50%** de leur [Points de vie].
+>Vous criez, toutes les entités [Alliés](app://obsidian.md/index.html) qui entendent votre cri se voit octroyé un [[Bouclier]] à hauteur de **50%** de leur [Points de vie]().
 >
 >---
 >↻ Une fois par session.  

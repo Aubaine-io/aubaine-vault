@@ -18,7 +18,9 @@
       "price",
       "craft",
       "damage",
-      "card"
+      "card",
+      "bestial",
+      "beast"
     ],
     "settings": {
       "passive": [
@@ -178,6 +180,22 @@
           "changes": {
             "icon": "lucide-sun-moon",
             "color": "168, 82, 255"
+          }
+        }
+      ],
+      "bestial": [
+        {
+          "changes": {
+            "icon": "lucide-paw-print",
+            "color": "143, 90, 0"
+          }
+        }
+      ],
+      "beast": [
+        {
+          "changes": {
+            "icon": "lucide-paw-print",
+            "color": "197, 190, 254"
           }
         }
       ]
